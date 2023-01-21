@@ -5,7 +5,7 @@
 # Bem-vindo! 👋 <a name="id01"></a>
 Repositório de estudos e exercícios do Módulo 1 do curso sobre as linguagens de marcação HTML5 e CSS3 ministradas pelo professor Gustavo Guanabara.
 
-# &#x1F393; O Curso
+# &#x1F393; Sobre o Curso
 <ul>
 <li>Módulo 1: Composto por 12 capítulos e 40 aulas.</li>
 <li>Possui 40 horas</li>
