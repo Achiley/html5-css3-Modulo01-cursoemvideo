@@ -7,7 +7,7 @@ Repositório de estudos e exercícios do Módulo 1 do curso sobre as linguagens 
 
 # &#x1F393; Sobre o Curso
 <ul>
-<li>Módulo 1: Composto por 12 capítulos e 40 aulas.</li>
+<li>Módulo 1: Composto por 12 capítulos e 43 aulas.</li>
 <li>Possui 40 horas</li>
 </ul>
 
@@ -105,4 +105,4 @@ Capítulo 12:
 </ul>
 
 # &#X263A; Link
-Você pode acessar o curso pelo site: https://www.cursoemvideo.com/curso/html5-css3-modulo1/
+Você pode acessar o curso pelo site: https://www.cursoemvideo.com/curso/html5-css3-modulo2/
